@@ -13,7 +13,8 @@
 body{
     display: flex;
     justify-content: center;
-    background: rgb(6, 10, 129);
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(19,52,7,1) 100%);
     padding: 15px;
 }
 .img img{
